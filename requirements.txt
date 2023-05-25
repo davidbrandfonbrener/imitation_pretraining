@@ -1,0 +1,24 @@
+absl-py==1.2.0
+dm-control==1.0.7
+dm-env==1.5
+dm-pix==0.3.4
+dm-tree==0.1.7
+fire==0.4.0
+flax==0.6.1
+gym==0.23.1
+jax==0.3.21
+jaxlib==0.3.20
+matplotlib==3.6.0
+metaworld @ git+https://github.com/rlworkgroup/metaworld.git@18118a28c06893da0f363786696cc792457b062b
+d4rl @ git+https://github.com/Farama-Foundation/d4rl@master#egg=d4rl
+r3m @ git+https://github.com/facebookresearch/r3m.git
+mujoco==2.2.2
+numpy==1.24.1
+optax==0.1.3
+pybullet==3.2.5
+tensorflow==2.10.0
+tensorflow-datasets==4.7.0
+timm==0.6.12
+torch==1.13.1
+torchvision==0.14.1
+wandb==0.13.4
