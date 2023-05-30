@@ -47,5 +47,12 @@ Logs are always generated locally as csv, but it is also possible to simultaneou
 
 Citation:
 ```
-TODO
+@misc{brandfonbrener2023inverse,
+      title={Inverse Dynamics Pretraining Learns Good Representations for Multitask Imitation}, 
+      author={David Brandfonbrener and Ofir Nachum and Joan Bruna},
+      year={2023},
+      eprint={2305.16985},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
